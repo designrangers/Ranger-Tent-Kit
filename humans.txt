@@ -1,0 +1,68 @@
+/* The humans responsible for building this campground */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <Designer>: <Chris Schell>
+  <Designer>: <Jenny Schell>
+  <Designer>: <Ben Rosati>
+  Site: http://DesignRangers.com
+  Twitter: @DesignRangers
+  Location: Colorado Springs, CO
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Photoshop, Illustrator, Sublime Text 2, Transmit
+
+/* THANKS */
+  We would like to thank Luke Skywalker and Han Solo for saving our intergalatic galaxy from complete obliteration by forces known as the Galactic Empire.
+
+
+
+                      ,-._
+                  ,--/___ `.
+                  |      `--`.___
+                 |  o            `I-.__
+                 | o              |---<__
+                |               ,-'      |_
+                |            ,-'         | `.
+               |           ,'  ___        |-'
+               |          /  ,'   `.      |
+              |          /  /  ,-.  \      |
+              | _________\ ( ([|=|])-)     |
+             |-'  .......   \  `-'  /       |
+             |___'           `.___,'   ..   |
+                  \___________       .' :    |
+                           |  \_____  :  :   |
+                           |_____|  \  :  :   |
+                    ___    |     |   \  :..:  |\
+               ,--.[___]_  |    _)--. \_______|/_
+               I ,-.:::: `-----'     )     \\   /._
+               |(   \     ........--'        \_/`-.`-.
+               \ `\  \__           ]                `-'
+             _.-'--^,'__`.--------'
+         __,/'  ...( (__) )/
+  ,--.--'   ..''    ).__,'/
+ /  __\ .'''____,=='-
+ \ (_ /----'
+  `--'|
+   \. `.
+   `|  |
+    \. `.
+    `|  |
+     \. `.
+     `|  |
+      \. `.
+      `|  |
+       \. `.
+      <||  |
+      [|\. `.
+       |_)\ |
+        \ `. `.
+         `-<\O `-._
+             `-._  `-._
+                 `-._  `'\
+                    _)/O\_)_.-._
+                  [/.......`--._`._._,-.
+                  (_____________)|_|_|__\
